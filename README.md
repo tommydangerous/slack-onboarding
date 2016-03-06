@@ -67,3 +67,28 @@ Slack is fairly intuitive.
 - You can create new channels. 
 - You can make those channels private or public. 
 - You can send multiple users a direct message and that will create a private group.
+
+## Keyboard Commands
+Type the following in Slack in order to accomplish cool functionality.
+
+### Stocks
+Do the following to show stock information about a company in Slack.
+```
+Type: /stocktwits <TICKER_SYMBOL>
+Example: /stocktwits FB
+```
+
+### Gifs (pronounced j-if and not like gift)
+Do the following to display a gif in Slack.
+```
+Type: /giphy <SEARCH_TERM>
+Example: /giphy puppies
+```
+
+### Memes
+With this command, you can add text to existing popular memes.
+```
+Type: /meme <MEME_TEMPLATE> <FIRST_LINE>; <SECOND_LINE>
+Example: /meme mordor one does not simply slack; and not be productive
+```
+Result:
