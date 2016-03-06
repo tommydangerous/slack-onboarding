@@ -11,10 +11,18 @@ Slack is used for communication.
 
 ## Accept Invitation
 You will receive an invitation in your email that looks like this:
-<img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-invitation-email.png" />
+<img
+  height=406
+  src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-invitation-email.png"
+  width=634
+/>
 
 Click **Join team**, then you will be redirected to a page where you will enter your username and password.
-<img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-signup-form.png" />
+<img
+  height=673
+  src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-signup-form.png"
+  width=564
+/>
 
 ## Download Slack
 1. [Android](https://play.google.com/store/apps/details?id=com.Slack&hl=en)
