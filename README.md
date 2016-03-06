@@ -33,9 +33,12 @@ Click **Join team**, then you will be redirected to a page where you will enter 
 
 ## Edit Your Profile
 Once you have downloaded the App, you can edit your profile.
-1. Go to the top left corner of your App and click **Zillionaire**
+
+Go to the top left corner of your App and click **Zillionaire**
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-menu-button.png" />
-2. A dropdown menu will appear, click **View Profile & Account**
+
+A dropdown menu will appear, click **View Profile & Account**
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-dropdown-menu.png" />
-3. A menu will slide out from the right side, click **Edit**
-4. A form will appear where you can update your first name, last name, what you do, phone number, Skype number, and profile photo.
+
+A menu will slide out from the right side, click **Edit**
+A form will appear where you can update your first name, last name, what you do, phone number, Skype number, and profile photo.
