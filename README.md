@@ -84,6 +84,7 @@ Do the following to display a gif in Slack.
 Type: /giphy <SEARCH_TERM>
 Example: /giphy puppies
 ```
+<img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/puppies.gif" />
 
 ### Memes
 With this command, you can add text to existing popular memes.
@@ -91,4 +92,4 @@ With this command, you can add text to existing popular memes.
 Type: /meme <MEME_TEMPLATE> <FIRST_LINE>; <SECOND_LINE>
 Example: /meme mordor one does not simply slack; and not be productive
 ```
-Result:
+<img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/and-not-be-productive.jpg" />
