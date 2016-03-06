@@ -87,9 +87,15 @@ Example: /giphy puppies
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/puppies.gif" />
 
 ### Memes
+Before beginning, you can type `/meme-list` in your Slack to view all the available meme **Templates**.
+You will need the name of the template you wish to use.
+
 With this command, you can add text to existing popular memes.
 ```
 Type: /meme <MEME_TEMPLATE> <FIRST_LINE>; <SECOND_LINE>
 Example: /meme mordor one does not simply slack; and not be productive
 ```
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/and-not-be-productive.jpg" />
+
+### Keyboard Shortcuts
+Type `command + /` or `cntrl + /` in Slack to view all the keyboard shortcuts.
