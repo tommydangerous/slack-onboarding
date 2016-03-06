@@ -58,3 +58,12 @@ Once you have downloaded the App, you can edit your profile.
 - Your copied text should look something like `#2F2C2F,#252525,#A36B31,#D2D6D6,#5C6380,#DEDEDE,#ADBA4E,#DB6668` (it will differ depending on the color theme you chosen)
 - Go back to your Slack App and paste that text into the area at the bottom of the screen labeled **Copy and paste these values...**
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-sidebar-colors.png" />
+
+## How to Use
+Slack is fairly intuitive.
+
+- You join channels, you chat in them. 
+- You can send other users direct messages. 
+- You can create new channels. 
+- You can make those channels private or public. 
+- You can send multiple users a direct message and that will create a private group.
