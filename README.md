@@ -3,11 +3,11 @@
 Slack is used for communication.
 
 1. [Accept Invitation](#accept-invitation)
-1. Download Slack
-1. Edit Your Profile
-1. Customize Your Slack
-1. How to Use
-1. Keyboard Commands
+1. [Download Slack](#download-slack)
+1. [Edit Your Profile](#edit-your-profile)
+1. [Customize Your Slack](#customize-your-slack)
+1. [How to Use](#how-to-use)
+1. [Keyboard Commands](#keyboard-commands)
 
 ## Accept Invitation
 You will receive an invitation in your email that looks like this:
@@ -32,3 +32,5 @@ Click **Join team**, then you will be redirected to a page where you will enter 
 5. [Any Other Device](https://slack.com/downloads)
 
 ## Edit Your Profile
+Once you have downloaded the App, you can edit your profile.
+1. Go to the top left corner of your App and click **Zillionaire**
