@@ -10,5 +10,7 @@ Slack is used for communication.
 1. Keyboard Commands
 
 ## Accept Invitation
-You will receive an invitation in your email. It will look like this:
+You will receive an invitation in your email that looks like this:
 <img height=406 src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-invitation-email.png" width=634 />
+
+Click **Join team**, then you will be redirected
