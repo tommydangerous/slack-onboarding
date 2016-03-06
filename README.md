@@ -2,7 +2,7 @@
 
 Slack is used for communication.
 
-1. Accept Invitation
+1. Accept Invitation(#accept-invitation)
 1. Download Slack
 1. Edit Your Profile
 1. Customize Your Slack
