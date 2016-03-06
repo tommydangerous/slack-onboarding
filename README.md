@@ -46,9 +46,13 @@ Once you have downloaded the App, you can edit your profile.
 
 ## Customize Your Slack
 - Click on **Zillionaire** in the top left corner, then select **Preferences**.
+
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-menu-button.png" />
+
 - Select **Sidebar Theme**
+
 <img src="https://raw.githubusercontent.com/tommydangerous/slack-onboarding/master/slack-sidebar-theme.png" />
+
 - Visit this [website](http://slackthemes.net/#/afterglow) to view pre-made color themes
 - Select a theme, then copy the text in the box labeled **Copy and paste these values..**
 - Your copied text should look something like `#2F2C2F,#252525,#A36B31,#D2D6D6,#5C6380,#DEDEDE,#ADBA4E,#DB6668` (it will differ depending on the color theme you chosen)
