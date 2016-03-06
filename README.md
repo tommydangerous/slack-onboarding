@@ -8,6 +8,7 @@ Slack is used for communication.
 1. [Customize Your Slack](#customize-your-slack)
 1. [How to Use](#how-to-use)
 1. [Keyboard Commands](#keyboard-commands)
+1. [Multiple Teams](#multiple-teams)
 
 ## Accept Invitation
 You will receive an invitation in your email that looks like this:
@@ -99,3 +100,9 @@ Example: /meme mordor one does not simply slack; and not be productive
 
 ### Keyboard Shortcuts
 Type `command + /` or `cntrl + /` in Slack to view all the keyboard shortcuts.
+
+## Multiple Teams
+If you have multiple teams on Slack, you can add all of them to your Slack App and swap between them.
+
+- Click **Zillionaire** in the top left
+- A dropdown menu will appear, select **Sign in to another team ...**
